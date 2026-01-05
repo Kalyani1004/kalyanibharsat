@@ -35,7 +35,7 @@ const Navbar = () => {
     }`
             }
           >
-            About
+            Education
           </a>
 
           <a href="#projects"
@@ -101,4 +101,5 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
 
